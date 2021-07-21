@@ -1,15 +1,11 @@
 {
-  "name": "tapo-homey",
+  "name": "space.charliecat.tplinktapo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "tp-link-tapo-connect": "^1.0.3"
-  },
-  "devDependencies": {},
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^0.2.2"
+  }
 }

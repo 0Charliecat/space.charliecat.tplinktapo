@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en": "P100"
+  },
+  "class": "socket",
+  "capabilities": [],
+  "images": {
+    "small": "/drivers/p100/assets/images/small.png",
+    "large": "/drivers/p100/assets/images/large.png",
+    "xlarge": "/drivers/p100/assets/images/xlarge.png"
+  }
+}

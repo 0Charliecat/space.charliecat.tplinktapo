@@ -1,1 +1,3 @@
-# `space.charliecat.tplinktapo`
+# Tp-Link Tapo
+
+Adds Tapo devices To your Homey
